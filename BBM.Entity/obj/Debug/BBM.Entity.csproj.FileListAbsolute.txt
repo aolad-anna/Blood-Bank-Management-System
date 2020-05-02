@@ -1,0 +1,22 @@
+F:\Project\BloodBankManagement\BBM.Entity\bin\Debug\BBM.Entity.dll
+F:\Project\BloodBankManagement\BBM.Entity\bin\Debug\BBM.Entity.pdb
+F:\Project\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.csprojResolveAssemblyReference.cache
+F:\Project\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.dll
+F:\Project\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.pdb
+C:\Users\Protick\Documents\Visual Studio 2015\Projects\BloodBankManagement\BBM.Entity\bin\Debug\BBM.Entity.dll
+C:\Users\Protick\Documents\Visual Studio 2015\Projects\BloodBankManagement\BBM.Entity\bin\Debug\BBM.Entity.pdb
+C:\Users\Protick\Documents\Visual Studio 2015\Projects\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Protick\Documents\Visual Studio 2015\Projects\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.dll
+C:\Users\Protick\Documents\Visual Studio 2015\Projects\BloodBankManagement\BBM.Entity\obj\Debug\BBM.Entity.pdb
+D:\BloodBankManagement-master\BBM.Entity\bin\Debug\BBM.Entity.dll
+D:\BloodBankManagement-master\BBM.Entity\bin\Debug\BBM.Entity.pdb
+D:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.csprojAssemblyReference.cache
+D:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.csproj.CoreCompileInputs.cache
+D:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.dll
+D:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.pdb
+G:\BloodBankManagement-master\BBM.Entity\bin\Debug\BBM.Entity.dll
+G:\BloodBankManagement-master\BBM.Entity\bin\Debug\BBM.Entity.pdb
+G:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.csprojAssemblyReference.cache
+G:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.csproj.CoreCompileInputs.cache
+G:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.dll
+G:\BloodBankManagement-master\BBM.Entity\obj\Debug\BBM.Entity.pdb
